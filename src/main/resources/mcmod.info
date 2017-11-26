@@ -1,0 +1,12 @@
+[{
+  "modid": "themod",
+  "name": "TheMod",
+  "description": "The Best of the Best",
+  "version": "0.0.0.1",
+  "mcversion": "1.12.0",
+  "logoFile": "",
+  "url": "",
+  "updateJSON": "",
+  "authorList": [""],
+  "credits": "I'd like to thank my mother and father."
+}]
